@@ -1,0 +1,1 @@
+alter table usuarios add status varchar(15) not null;
