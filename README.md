@@ -1,1 +1,1 @@
-# pontos-farm
+Aplicação para Criar e Gerenciar pontos 
